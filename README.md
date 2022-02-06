@@ -1,2 +1,2 @@
-# todoapp
-.
+# vue-todo
+ 
